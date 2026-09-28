@@ -14,9 +14,9 @@ Open `index.html` directly in a browser, or serve it:
 python3 -m http.server 8000
 ```
 
-## Deploy on Render
+## Deploy
 
-This repo includes a `render.yaml`. In the Render dashboard: **New → Static Site**, connect this repo, and Render will pick up the config automatically (build command empty, publish directory `.`).
+Deployed via GitHub Pages using the included workflow (`.github/workflows/deploy-pages.yml`) — pushes to `main` publish automatically. Enable it once under **Settings → Pages → Source: GitHub Actions** on this repo, or run the workflow manually from the Actions tab.
 
 ## Contributing
 
