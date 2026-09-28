@@ -4,7 +4,7 @@ An independent, vendor-neutral directory of identity verification, KYC, KYB, AML
 
 Built as a single static page — searchable and filterable by category, no backend required.
 
-Looking for an actual name-screening tool? See [sweater9/AML-Screening](https://github.com/sweater9/AML-Screening) — a separate project.
+Looking for an actual name-screening tool? See [AML-Screening](https://sweater9.github.io/AML-Screening/) (source: [sweater9/AML-Screening](https://github.com/sweater9/AML-Screening)) — a separate project.
 
 ## Run locally
 
